@@ -4,7 +4,7 @@ A cinematic and immersive 3D birthday surprise website that makes
 someone feel truly special — with a real party room, cake cutting,
 confetti, sound effects, and emotional storytelling.
 
-🌐 **Live Site** — [#YOUR_LIVE_LINK_HERE](https://3-d-birthday-site.vercel.app/)
+🌐 **Live Site** — [#3D Birthday site](https://3-d-birthday-site.vercel.app/)
 
 ---
 
