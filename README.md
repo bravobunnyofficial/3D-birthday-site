@@ -26,7 +26,7 @@ cinematic slice fly toward you while the whole screen celebrates.
 5. User clicks the knife on the table
 6. Knife animates and cuts the cake cinematically
 7. Cake slice flies toward the screen, spins 180°, then vanishes
-8. Confetti explodes and **Happy Birthday Khushi!** appears
+8. Confetti explodes and **Happy Birthday Ankush!** appears
 
 ---
 
